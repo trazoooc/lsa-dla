@@ -16,3 +16,4 @@ configuracion.json
 *.msp
 *.outputcredentials.json
 token.pickle
+credentials.json
